@@ -4,7 +4,6 @@ import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.Date;
-import java.util.logging.Formatter;
 import java.util.logging.*;
 
 public final class MiniLogger {
